@@ -203,7 +203,7 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ## Classification Report
 
-<img width="717" height="475" alt="image" src="https://github.com/user-attachments/assets/7df9c014-4224-42b6-8cbf-d2377c9653ee" />
+<img width="587" height="432" alt="image" src="https://github.com/user-attachments/assets/770541e3-8fc9-47f7-aa49-87046f4a1a20" />
 
 
 
