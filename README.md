@@ -187,17 +187,17 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ### Dataset Information
 
-<img width="1408" height="281" alt="image" src="https://github.com/user-attachments/assets/f497f2a4-597b-40a0-99be-fb4801d60a56" />
+<img width="1263" height="249" alt="image" src="https://github.com/user-attachments/assets/8603f194-fb0d-4096-a4e7-e3dc9122c40b" />
 
 
 
 ### OUTPUT
-<img width="412" height="262" alt="image" src="https://github.com/user-attachments/assets/13227f97-f522-42ad-a5bf-5f2601ef063f" />
+<img width="345" height="227" alt="image" src="https://github.com/user-attachments/assets/4ab12c5e-d1ec-41a2-8620-224462123807" />
 
 
 
 ## Confusion Matrix
-<img width="750" height="622" alt="image" src="https://github.com/user-attachments/assets/038bc15c-658b-45f2-a10d-d871a53460fd" />
+<img width="722" height="585" alt="image" src="https://github.com/user-attachments/assets/dff8801e-ec17-4629-aa87-52b1b0a5aeff" />
 
 
 
